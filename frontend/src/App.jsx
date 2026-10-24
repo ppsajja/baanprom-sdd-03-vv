@@ -1,5 +1,5 @@
 // หน้าหลักของ feature UC-07: เลือกช่าง แล้วยืนยัน แล้วดูผล
-// ตัวอย่างใช้ลูกค้าและที่อยู่คงที่ (การเข้าสู่ระบบ UC-10 และเลือกที่อยู่ UC-02 อยู่นอกขอบเขต feature นี้)
+// ตัวอย่างใช้ลูกค้าและที่อยู่คงที่ (การเข้าสู่ระบบและเลือกที่อยู่ของลูกค้า UC-02 อยู่นอกขอบเขต feature นี้)
 import { useState } from 'react'
 import { api as realApi } from './api/client.js'
 import TechnicianPicker from './pages/TechnicianPicker.jsx'
